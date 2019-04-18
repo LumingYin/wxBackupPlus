@@ -1,0 +1,6 @@
+framework module wxBackupPlus {
+  umbrella header "wxBackupPlus.h"
+
+  export *
+  module * { export * }
+}
